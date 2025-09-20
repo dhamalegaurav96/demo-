@@ -1,4 +1,3 @@
 # demo-
-this is my first Git repository
-Author _ Gaurav Patil
+this is my first Git repository .Author _ Gaurav Patil
 
